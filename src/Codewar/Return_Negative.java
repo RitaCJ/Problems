@@ -1,4 +1,4 @@
-package Codeforce;
+package Codewar;
 
 import java.io.*;
 
